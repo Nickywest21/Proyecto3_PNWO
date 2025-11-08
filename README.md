@@ -11,6 +11,7 @@ Instrucciones de uso:
 6.	El sistema mostrará si la cadena fue aceptada o rechazada.
 
 Ejemplo de ejecución:
+
 Entrada:
 Lenguaje: (a|b)*abb  
 Cadena: ababb
