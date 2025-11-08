@@ -10,9 +10,3 @@ Instrucciones de uso:
 5.	Si deseas comenzar de nuevo, presiona “Reiniciar”.
 6.	El sistema mostrará si la cadena fue aceptada o rechazada.
 
-Ejemplo de ejecución:
-
-Entrada:
-Lenguaje: (a|b)*abb  
-Cadena: ababb
-Resultado: Cadena aceptada por el lenguaje.
